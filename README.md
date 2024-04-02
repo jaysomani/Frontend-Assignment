@@ -28,7 +28,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/Frontend-Assignment.git
+git clone https://github.com/jaysomani/Frontend-Assignment.git
 Navigate to the project directory:
 
 bash
@@ -47,7 +47,7 @@ npm start
 Open your web browser and go to http://localhost:3000 to view the application.
 
 Deployment
-The application is deployed/hosted on Firebase/Netlify/Vercel (mention the platform you chose).
+The application is deployed/hosted on Netlify.
 
 You can access the deployed application at Link to deployed app.
 
@@ -57,5 +57,4 @@ React Router DOM
 React Chartjs 2
 Tailwind CSS
 Storybook
-Screenshots
-Include screenshots or GIFs showcasing the application's UI and functionality.
+
