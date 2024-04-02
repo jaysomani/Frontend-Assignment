@@ -1,0 +1,39 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 20px;
+  }
+  
+  .grid-item {
+    border: 1px solid #ccc;
+    padding: 20px;
+  }
+
+  .legend-container {
+    margin-top: 20px;
+  }
+  
+  .legend-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+  }
+  
+  .legend-item {
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+  }
+  
+  .legend-color {
+    width: 10px;
+    height: 10px;
+    margin-right: 5px;
+    display: inline-block;
+  }
+  
+  .legend-text {
+    font-size: 14px;
+  }
+  

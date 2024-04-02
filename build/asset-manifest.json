@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.21b6102c.css",
+    "main.js": "/static/js/main.9db03a97.js",
+    "static/js/453.b6b620bf.chunk.js": "/static/js/453.b6b620bf.chunk.js",
+    "static/media/TFlogo.svg": "/static/media/TFlogo.dd0817ce459336cffad91c5a2f5b294f.svg",
+    "static/media/Spinner.svg": "/static/media/Spinner.ba537711807af7f5437aa981b717a7ed.svg",
+    "index.html": "/index.html",
+    "main.21b6102c.css.map": "/static/css/main.21b6102c.css.map",
+    "main.9db03a97.js.map": "/static/js/main.9db03a97.js.map",
+    "453.b6b620bf.chunk.js.map": "/static/js/453.b6b620bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21b6102c.css",
+    "static/js/main.9db03a97.js"
+  ]
+}
